@@ -1,0 +1,35 @@
+{
+  "name": "quickstore-package",
+  "version": "1.1.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "quickstore",
+    "data-storage",
+    "json-storage",
+    "nodejs",
+    "react-native",
+    "api",
+    "lightweight-db"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "description": "QuickStore - A lightweight and efficient data storage solution",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/getsettalk/quickstore-package"
+  },
+  "bugs": {
+    "url": "https://github.com/getsettalk/quickstore-package/issues"
+  },
+  "homepage": "https://github.com/getsettalk/quickstore-package#readme",
+  "dependencies": {
+    "axios": "^1.7.9"
+  },
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
