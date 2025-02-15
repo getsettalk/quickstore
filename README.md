@@ -120,7 +120,7 @@ You can also test the QuickStore API using **Postman** by sending requests to th
 
 #### **1. Send Data**  
 - **Method:** `POST`  
-- **URL:** `https://quickstore-kappa.vercel.app/api/send`  
+- **URL:** `https://quickstore-pql2.onrender.com/api/send`  
 - **Body (JSON):**  
 ```json
 {
@@ -134,11 +134,11 @@ You can also test the QuickStore API using **Postman** by sending requests to th
 
 #### **2. Get Data**  
 - **Method:** `GET`  
-- **URL:** `https://quickstore-kappa.vercel.app/api/get/exampleKey`  
+- **URL:** `https://quickstore-pql2.onrender.com/api/get/exampleKey`  
 
 #### **3. Update Data**  
 - **Method:** `PUT`  
-- **URL:** `https://quickstore-kappa.vercel.app/api/update/exampleKey`  
+- **URL:** `https://quickstore-pql2.onrender.com/api/update/exampleKey`  
 - **Body (JSON):**  
 ```json
 {
@@ -150,7 +150,7 @@ You can also test the QuickStore API using **Postman** by sending requests to th
 
 #### **4. Delete Data**  
 - **Method:** `DELETE`  
-- **URL:** `https://quickstore-kappa.vercel.app/api/delete/exampleKey`  
+- **URL:** `https://quickstore-pql2.onrender.com/api/delete/exampleKey`  
 
 ---
 
