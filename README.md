@@ -28,6 +28,11 @@ Install the package using NPM:
 ```bash
 npm i quickstore-package
 ```
+And
+
+```bash
+npm install axios
+```
 
 ---
 

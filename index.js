@@ -1,5 +1,6 @@
-const axios = require('axios');
-const BASE_URL = 'https://quickstore-pql2.onrender.com//api';
+import axios from 'axios';
+
+const BASE_URL = 'https://quickstore-pql2.onrender.com/api';
 /**
  * QuickStore API Client
  * 

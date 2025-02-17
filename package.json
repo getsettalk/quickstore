@@ -1,6 +1,6 @@
 {
   "name": "quickstore-package",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -13,11 +13,15 @@
     "nodejs",
     "react-native",
     "api",
-    "lightweight-db"
+    "lightweight-db",
+    "quickstore-package",
+    "quickstore-nodejs",
+    "quickstore-react-native"
   ],
   "author": "Your Name",
   "license": "MIT",
   "description": "QuickStore - A lightweight and efficient data storage solution",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "https://github.com/getsettalk/quickstore-package"
